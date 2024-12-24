@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:white;
+}
+button {
+    padding: .55rem 1rem ;
+    font-size: 2rem;
+    font-family: monospace, sans-serif;
+    cursor: pointer;
+    border: 2px ridge rgb(172, 130, 178);
+}
